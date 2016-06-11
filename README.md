@@ -1,0 +1,2 @@
+# kryi.github.io
+blog
